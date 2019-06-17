@@ -1,3 +1,5 @@
 # Data-Science-Projects
 
-Marketing Data Science Course Project
+1.Marketing Data Science
+Data: Telecom Company in Taiwan
+
