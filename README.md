@@ -1,5 +1,6 @@
 # Data-Science-Projects
 
-1.Marketing Data Science
-  Data: Telecom Company in Taiwan
+A. School Courses
+1. Marketing Data Science
+
 
