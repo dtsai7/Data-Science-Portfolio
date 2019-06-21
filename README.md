@@ -8,5 +8,6 @@
 1. Regression
 2. Classification
 3. Clustering
-
+4. Association Rule Learning
+5. Reinforcement Learning
 
