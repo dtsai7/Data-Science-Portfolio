@@ -2,7 +2,8 @@
 
 ## Data Analysis
 1. NTUST Marketing Data Science
-2. YouBike Data Analysis
+2. YouBike Data Analysis 
+
 
 ## Machine Learning
 1. Regression
@@ -14,4 +15,6 @@
 
 ## Deep Learning
 1. Supervised DL
+    - Convolutional Neural Networks
+    - Recurrent Neural Networks
 2. Unsupervised DL
