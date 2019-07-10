@@ -2,7 +2,7 @@
 
 
 ## Data Analysis
-1. NTUST Telecom Data Analysis
+1. [NTUST Telecom Data Analysis](https://github.com/dtsai7/Data-Science-Portfolio/blob/master/mds.py)
 2. [YouBike Data Analysis](https://github.com/dtsai7/Data-Science-Portfolio/blob/master/YouBike_EDA.ipynb)
 
 ## Time Series Analysis and Forecasting
