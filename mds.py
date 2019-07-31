@@ -5,7 +5,7 @@ Created on Wed May 22 23:53:55 2019
 
 @author: David_Tsai
 """
-
+#import libraries
 import numpy as np
 from numpy import loadtxt
 from numpy import sort
