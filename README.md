@@ -11,6 +11,8 @@ II. [YouBike Data Analysis](https://github.com/dtsai7/Data-Science-Portfolio/blo
   - Numpy, Pandas, Pandas_profiling, Matplotlib, Seaborn
   
   
-III. [Metro Interstate Traffic Volume Forecasting with Facebook's Prophet](https://github.com/dtsai7/Data-Science-Portfolio/blob/master/Metro_Interstate_Traffic_Volume-(Time%20Series%20Forecasts%20w.%20Facebook’s%20Prophet).ipynb)
-  - Time Series Analysis and Forecasting
+III. [Metro Interstate Traffic Volume Forecasting](https://github.com/dtsai7/Data-Science-Portfolio/blob/master/Metro_Interstate_Traffic_Volume-(Time%20Series%20Forecasts%20w.%20Facebook’s%20Prophet).ipynb)
+  - Metro Interstate Traffic Volume Data Set from UCI Machine Learning Repository
+  - Time Series Analysis and Forescasting
+
 
