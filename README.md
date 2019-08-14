@@ -1,7 +1,7 @@
 # Data-Science-Projects
 
 
-I. [Telecom Data Analysis](https://github.com/dtsai7/Data-Science-Portfolio/blob/master/mds.py)
+I. [Telecom Data Analysis](https://github.com/dtsai7/Data-Science-Portfolio/blob/master/Telecom%20Data%20Analysis/telecom.py)
   - Analysis of Ideal Telecom Companies in Taiwan based on survey
   - numpy, pandas, seaborn, scikit-learn
   
