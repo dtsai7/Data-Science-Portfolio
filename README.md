@@ -7,7 +7,7 @@ I. [Telecom Data Analysis](https://github.com/dtsai7/Data-Science-Portfolio/blob
   
   
   
-II. [YouBike Data Analysis](https://github.com/dtsai7/Data-Science-Portfolio/blob/master/YouBike_EDA.ipynb)
+II. [YouBike Data Analysis](https://github.com/dtsai7/Data-Science-Portfolio/blob/master/YouBike%20Data%20Analysis/YouBike_EDA.ipynb)
   - Analysis of YouBike dataset provided by New Taipei City
   - numpy, pandas, pandas_profiling, matplotlib, seaborn
   
