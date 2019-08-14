@@ -26,7 +26,7 @@ from yellowbrick.classifier import PrecisionRecallCurve
 from pcm import plot_confusion_matrix
 
 # ---------------------data preprocessing----------------------- 
-df_orginal = pd.read_csv('107MDS_telecom.csv')
+df_orginal = pd.read_csv('telecom_survey.csv')
 df = df_orginal.iloc[:,0:3]
 
 # rename from CHN to Eng
