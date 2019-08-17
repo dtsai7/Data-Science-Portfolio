@@ -3,18 +3,20 @@
 ## [Telecom Data Analysis](https://github.com/dtsai7/Data-Science-Portfolio/blob/master/Telecom%20Data%20Analysis/telecom.py)
   - Analysis of Ideal Telecom Companies in Taiwan based on survey
   - **Questions to answer**:
-      - What is the ideal telecom companies in Taiwan? Differences in districts?
+      - What is the ideal telecom companies in Taiwan? differences in districts?
       - Are people actually the customers of their ideal telecom companies?
   - **KEYWORDS**: classification, ROC, AUC
+  
   
   
   
 ## [YouBike Data Analysis](https://github.com/dtsai7/Data-Science-Portfolio/blob/master/YouBike%20Data%20Analysis/YouBike_EDA.ipynb)
   - Analysis of YouBike dataset provided by New Taipei City
   - **Questions to answer**:
-    - How many bikes in each district? What is the district wiht most bikes?
+    - How many bikes in each district? the district with most bikes?
     - Any district with no Youbike?    
   - **KEYWORDS**: EDA, geopandas
+  
   
   
   
