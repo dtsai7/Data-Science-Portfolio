@@ -2,7 +2,7 @@
 
 ## [Telecom Data Analysis](https://github.com/dtsai7/Data-Science-Portfolio/blob/master/Telecom%20Data%20Analysis/telecom.py)
   - Analysis of Ideal Telecom Companies in Taiwan based on survey
-  - **Questionsr**:
+  - **Questions**:
       - What is the ideal telecom companies in Taiwan? differences in districts?
       - Are people actually the customers of their ideal telecom companies?
   - **KEYWORDS**: classification, ROC, AUC
