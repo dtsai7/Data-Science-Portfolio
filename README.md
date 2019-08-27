@@ -15,7 +15,7 @@
   - **Problem Statement**:
     - How many bikes in each district? the district with most bikes?
     - Any district with no Youbike?    
-  - **KEYWORD**: EDA, geopandas, dataset aggregation
+  - **KEYWORD**: EDA, geopandas, merging datasets
   
   
   
