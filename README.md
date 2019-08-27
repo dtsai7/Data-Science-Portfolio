@@ -28,7 +28,7 @@
   - **KEYWORD**: missing data, time series analysis, forecasting, fbprophet, cross validation
   
   
-  ##[Natural Language Processing(NLP) with Tweets related to Hong Kong](https://github.com/dtsai7/Data-Science-Portfolio/blob/master/Sentiment%20Analysis%20and%20WordCloud%20Using%20Twitter%20Data/nlp_twitter_hk.ipynb)
+  ## [Natural Language Processing(NLP) with Tweets related to Hong Kong](https://github.com/dtsai7/Data-Science-Portfolio/blob/master/Sentiment%20Analysis%20and%20WordCloud%20Using%20Twitter%20Data/nlp_twitter_hk.ipynb)
   - Analyze sentiment using tweets and tweepy 
   - **Problem Statement**:
     - What do people talk about Hong Kong on Twitter?
