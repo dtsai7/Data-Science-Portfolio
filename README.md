@@ -34,6 +34,5 @@
     - What do people talk about Hong Kong on Twitter?
     - How do people feel about Hong Kong?
   - **KEYWORD**: NLP, nltk, textblob, tweepy, sentiment analysis, wordcloud
-![hk_wordcloud](https://user-images.githubusercontent.com/32302812/63774028-f3e35d80-c90e-11e9-9f5a-1aae62003d4b.png)
 
 
