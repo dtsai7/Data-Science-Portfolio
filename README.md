@@ -5,7 +5,7 @@
   - **Problem Statement**:
       - What is the ideal telecom companies in Taiwan? differences in districts?
       - Are people actually the customers of their ideal telecom companies?
-  - **KEYWORDS**: classification, ROC, AUC
+  - **KEYWORD**: classification, ROC, AUC
   
   
   
@@ -15,7 +15,7 @@
   - **Problem Statement**:
     - How many bikes in each district? the district with most bikes?
     - Any district with no Youbike?    
-  - **KEYWORDS**: EDA, geopandas
+  - **KEYWORD**: EDA, geopandas, dataset aggregation
   
   
   
@@ -25,7 +25,7 @@
   - **Problem Statement**:
     - Any other factors influence traffic volume?
     - Is it possible to predict future metro interstate traffic volume?
-  - **KEYWORDS**: missing data, time series analysis, forecasting, fbprophet, cross validation
+  - **KEYWORD**: missing data, time series analysis, forecasting, fbprophet, cross validation
 
 
 
