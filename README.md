@@ -5,7 +5,7 @@
   - **Problem Statement**:
       - What is the ideal telecom companies in Taiwan? differences in districts?
       - Are people actually the customers of their ideal telecom companies?
-  - **KEYWORD**: classification, ROC, AUC  
+  - **KEYWORDS**: classification, ROC, AUC  
 ![ROC](https://user-images.githubusercontent.com/32302812/63774621-3b1e1e00-c910-11e9-99a1-585c067b33d3.png)
 
   
@@ -16,7 +16,7 @@
   - **Problem Statement**:
     - How many bikes in each district? the district with most bikes?
     - Any district with no Youbike?    
-  - **KEYWORD**: EDA, geopandas, merging datasets
+  - **KEYWORDS**: EDA, geopandas, merging datasets
 ![youbike](https://user-images.githubusercontent.com/32302812/63774636-43765900-c910-11e9-9500-743f05ba6264.png)
 
   
@@ -27,7 +27,7 @@
   - **Problem Statement**:
     - Any other factors influence traffic volume?
     - Is it possible to predict future metro interstate traffic volume?
-  - **KEYWORD**: missing data, time series analysis, forecasting, fbprophet, cross validation
+  - **KEYWORDS**: missing data, time series analysis, forecasting, fbprophet, cross validation
 ![mterovolume](https://user-images.githubusercontent.com/32302812/63774634-4113ff00-c910-11e9-8724-23afeb3fd07e.png)
   
   ## [Natural Language Processing(NLP) using Tweets related to Hong Kong](https://github.com/dtsai7/Data-Science-Portfolio/blob/master/Natural%20Language%20Processing(NLP)%20with%20Tweets%20related%20to%20Hong%20Kong/nlp_twitter_hk.ipynb)
@@ -35,5 +35,5 @@
   - **Problem Statement**:
     - What do people talk about Hong Kong on Twitter?
     - How do people feel about Hong Kong?
-  - **KEYWORD**: NLP, nltk, textblob, tweepy, sentiment analysis, wordcloud
+  - **KEYWORDS**: NLP, nltk, textblob, tweepy, sentiment analysis, wordcloud
 ![hk_wordcloud](https://user-images.githubusercontent.com/32302812/63774638-44a78600-c910-11e9-9c77-e59413eb4a12.png)
