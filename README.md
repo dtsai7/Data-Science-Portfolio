@@ -31,7 +31,7 @@
 ![mterovolume](https://user-images.githubusercontent.com/32302812/63774634-4113ff00-c910-11e9-8724-23afeb3fd07e.png)
   
   ## [Natural Language Processing(NLP) using Tweets related to Hong Kong](https://github.com/dtsai7/Data-Science-Portfolio/blob/master/Natural%20Language%20Processing(NLP)%20with%20Tweets%20related%20to%20Hong%20Kong/nlp_twitter_hk.ipynb)
-  - Analyze sentiment using tweets and tweepy 
+  - Analyzing sentiment using tweets and tweepy 
   - **Problem Statement**:
     - What do people talk about Hong Kong on Twitter?
     - How do people feel about Hong Kong?
